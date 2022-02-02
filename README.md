@@ -4,12 +4,12 @@ A brief illustration performed on the Linux Ubuntu Terminal showing how the proc
 # End-Goal
 The sole intention is to introduce & explain Signals as part of **Inter Process Communication i.e. _IPC_**.
 
-## Author/Programmer Information
+# Author/Programmer Information
 | PS No. | Name | GitHub Username |
 ---------|-------------|----------------|
 `40020843` | Sai Krishna Atchutanna | avnssskrishna |
 
-## Repository Skeleton
+# Repository Skeleton
 | What is It | What is In It |
 | ------ | ------ |
 | 1_Requirements | For Laymen, Basic Introduction & Research of the Project |
