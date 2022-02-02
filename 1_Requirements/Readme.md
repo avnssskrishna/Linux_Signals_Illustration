@@ -1,29 +1,21 @@
 # Requirements
 
 ## Introduction (with ofcourse the Research)
-A Signal is basically a command to the Linux Kernel, say a gesture or an expression. If the Terminal is the body of Linux, Signal is the body language of it. It dictates & disrupts how processes work. A _Software Interrupt_.
+A Signal is basically any command to the Linux Kernel, say a gesture or an expression. If the Terminal is the body of Linux, Signal is the body language of it. It dictates & disrupts how processes work. A _Software Interrupt_.
 
 ## Objective (The Motivation & The Inspiration)
-For example: A table where a list of football players in a team is present (Taking inspiration from FIFA, my favourite game and I would like to propose this project as a feature as well to them). It will contain Name, Age, Position, Number of Games Played, Goals, Assists, Goal Contributions (Goals + Assists), Clean Sheets, International Performance, Recommended Style of Play/Area in XI (Based on Statistics & Inputs via Interactions) etc. to name a few. This will not only make a unified structure of information but also suggest/recommend the future of an individual to the admin/manager.
-
-## Salient Features of this Project
-1) Adapatable: You can use this application for any people/participant list, literally.
-2) Ranking & Grading: To utilize the processed numbers as a tool for it.
-3) Organizing: To plan the potential ahead.
+To utilize the power of signals on the path of process glory.
 
 ## 4Ws and 1H
 
 ### What
-A tracking system sort of.
-
+A pure program consisting of pure signal commands.
 ### When
-In the entirety of a season/course/curriculum/module.
-
+Right there, right now when the processes are being run. Same instance, multiple operations. Literally.
 ### Where
-Digitally! In the Computer! So anywhere.
-
+On the beautifully robust Linux Ubuntu Terminal.
 ### How
-Refer to the Documentation Manual. (Documentation guys, your chance to shine)
+Refer to the Report for the detailed document. (Documentation guys, your chance to shine)
 
 ### Why 
 _Held this back for this_
@@ -33,10 +25,10 @@ FUN & PASSION!!!
 ## SWOT Analysis
 
 ### Strengths
-Concept
+Reliable Signals: A state in between the Creation & Success is introduced, called the Pending State. There Signal is blocked but then will work whenever summoned.
 
 ### Weaknesses
-Execution
+Unreliable Signals: Lost ones, the process won't even know one occured. Sad.
 
 ### Oppurtunities
 Abundant
@@ -47,26 +39,18 @@ Redundancy
 ## High Level Requirements:  
 |ID|Description|Status|
 |--|------------|------|
-|HLR_1|Program should alter the Process List which is accessed via 'ps' command|Implemented|
-|HLR_2|User shall be able to read the text files|Implemented|
-|HLR_3|User can extract the information from documents|Implemented|
-|HLR_4|User can able to scan the hand written file also|Future|
+|HLR_1|Program should alter the Process List (accessed via 'ps' command)|Implemented|
+|HLR_2|Signals carried by SIGUSR1/SIGUSR2|Implemented|
+|HLR_3|Waiting/Execution Time in between the Signal Issues|Implemented|
+|HLR_4|More Signal Commands to be Integrated|Future|
 
 ## Low Level Requirements:
 |ID|*Mapped To*|Description|Status|
 |--|-----------|-----------|------|
-|LLR_1||Enter user name and password|Implemented|
-|LLR_2||User shall able to login page|Implemented|
-|LLR_3||User Can upload their File|Implemented|  
+|LLR_1|HLR_1|'/a.out' for start process in background, '&' for multiple instance, the more you add the more ./a.out's are created. Also Job Control prints Job Number and Process ID.|Implemented|
+|LLR_2|HLR_2|kill -USR1 used to suspend the process|Implemented|
+|LLR_3|HLR_2|kill -USR2 used to resume the process|Implemented|
+|LLR_4|HLR_3|pause(); used wherever required, appropriately|Implemented|
+|LLR_5|HLR_4|After the current signal commands, play around with the rest 31-odd standards|Future|
 
-## High-Level Requirements
-- Secure Login
-- Proper Questionnaire
-- Smart System
-
-## Low-Level Requirements
-- Precise If-Else Conditions
-- Content Creation
-- Some, sorry A Lot of Human Intelligence!
-
-*Thank you.*
+*Thank you again.*
