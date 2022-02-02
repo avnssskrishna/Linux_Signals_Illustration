@@ -1,14 +1,7 @@
 # Requirements
 
 ## Introduction (with ofcourse the Research)
-Heylo World!
-
-This project is all about data, interface & representation in general. I would like to contribute to the training programs & even sports analytics to give them a 'common platform' where they can:
-- View
-- Evaluate
-- Segregate
-
-Given Data
+A Signal is basically a command to the Linux Kernel, say a gesture or an expression. If the Terminal is the body of Linux, Signal is the body language of it. It dictates & disrupts how processes work. A _Software Interrupt_.
 
 ## Objective (The Motivation & The Inspiration)
 For example: A table where a list of football players in a team is present (Taking inspiration from FIFA, my favourite game and I would like to propose this project as a feature as well to them). It will contain Name, Age, Position, Number of Games Played, Goals, Assists, Goal Contributions (Goals + Assists), Clean Sheets, International Performance, Recommended Style of Play/Area in XI (Based on Statistics & Inputs via Interactions) etc. to name a few. This will not only make a unified structure of information but also suggest/recommend the future of an individual to the admin/manager.
@@ -52,7 +45,7 @@ Abundant
 Redundancy
 
 ## High Level Requirements:  
-|ID|*Description|Status|
+|ID|Description|Status|
 |--|------------|------|
 |HLR_1|Program should alter the Process List which is accessed via 'ps' command|Implemented|
 |HLR_2|User shall be able to read the text files|Implemented|
