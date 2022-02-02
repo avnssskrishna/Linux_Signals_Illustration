@@ -6,7 +6,7 @@ PS No. | Name | GitHub Username |
 ---------|-------------|----------------|
 `40020843` | Sai Krishna Atchutanna | avnssskrishna |
 
-## Folder Skeleton
+## Repository Skeleton
 | What is It | What is in It |
 | ------ | ------ |
 | 1_Requirements | For Laymen, Basic Introduction & Research of the Project |
