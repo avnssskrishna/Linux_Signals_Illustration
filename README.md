@@ -1,6 +1,9 @@
 # Linux Signals Illustration
 A brief illustration performed on the Linux Ubuntu Terminal showing how the process of signals goes and how actions like suspend &amp; resume work.
 
+# End-Goal
+The sole intention is to introduce & explain Signals as part of **Inter Process Communication i.e. _IPC_**.
+
 ## Author/Programmer Information
 | PS No. | Name | GitHub Username |
 ---------|-------------|----------------|
