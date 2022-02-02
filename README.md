@@ -2,7 +2,7 @@
 A brief illustration performed on the Linux Ubuntu Terminal showing how the process of signals goes and how actions like suspend &amp; resume work.
 
 ## Author/Programmer Information
-PS No. | Name | GitHub Username |
+| PS No. | Name | GitHub Username |
 ---------|-------------|----------------|
 `40020843` | Sai Krishna Atchutanna | avnssskrishna |
 
