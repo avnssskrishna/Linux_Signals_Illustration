@@ -7,7 +7,7 @@ PS No. | Name | GitHub Username |
 `40020843` | Sai Krishna Atchutanna | avnssskrishna |
 
 ## Repository Skeleton
-| What is It | What is in It |
+| What is It | What is In It |
 | ------ | ------ |
 | 1_Requirements | For Laymen, Basic Introduction & Research of the Project |
 | 2_Design | Visual Representation of the Project for the Kids in You  |
