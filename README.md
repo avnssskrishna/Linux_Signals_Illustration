@@ -15,8 +15,8 @@ The sole intention is to introduce & explain Signals as part of **Inter Process 
 | 1_Requirements | For Laymen, Basic Introduction & Research of the Project |
 | 2_Design | Visual Representation of the Project for the Kids in You  |
 | 3_Implementation | The Main Part, Code Geeks, here! |
-| 4_TestPlanAndOutput | And now the 'Real' Process of the Project |
-| 5_Report | Some Formality... |
-| 6_ImagesAndVideos | Aah some more Fun |
+| 4_Media | Here goes some fun picturization |
+| 5_TestPlanAndOutput | And now the 'Real' Process of the Project|
+| 6_Report | Aah Some Formality... |
 
 *Thank you for coming here.*
