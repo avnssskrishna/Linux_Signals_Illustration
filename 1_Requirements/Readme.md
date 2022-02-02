@@ -52,19 +52,19 @@ Abundant
 Redundancy
 
 ## High Level Requirements:  
-|**ID** |**Description**                                                                         | **Status**  |
-|-------|------------------------------------------|-------------|
-| HLR_1 |		System output must display the contents of the file. 		                             |  Implemented|
-| HLR_2 |   User shall be able to read the text files.                                            | Implemented|
-| HLR_3 |   User can extract the information from documents.                                      |Implemented|
-| HLR_4 |   User can able to scan the hand written file also.                                      | Future|
+|ID|*Description|Status|
+|--|------------|------|
+|HLR_1|Program should alter the Process List which is accessed via 'ps' command|Implemented|
+|HLR_2|User shall be able to read the text files|Implemented|
+|HLR_3|User can extract the information from documents|Implemented|
+|HLR_4|User can able to scan the hand written file also|Future|
 
 ## Low Level Requirements:
-| **ID** |**Description**                                                                        | **Status** |
-|--------|-------------------------------------------|------------|
-| LLR_1	 |	 Enter user name and password                                  		                   |Implemented|
-| LLR_2	 | 	 User shall able to login page.                                                      |Implemented|
-| LLR_3  |   User Can upload their File.                                                         |Implemented|  
+|ID|*Mapped To*|Description|Status|
+|--|-----------|-----------|------|
+|LLR_1||Enter user name and password|Implemented|
+|LLR_2||User shall able to login page|Implemented|
+|LLR_3||User Can upload their File|Implemented|  
 
 ## High-Level Requirements
 - Secure Login
