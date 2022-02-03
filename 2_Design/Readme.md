@@ -1,2 +1,2 @@
-<img src='System Processes.png' />
+<img src='Signal Processes.png' />
 
