@@ -36,7 +36,7 @@ Abundant
 ### Threats
 Redundancy
 
-## High Level Requirements:  
+## High Level Requirements
 |ID|Description|Status|
 |--|------------|------|
 |HLR_1|Program should alter the Process List (accessed via 'ps' command)|Implemented|
@@ -44,7 +44,7 @@ Redundancy
 |HLR_3|Waiting/Execution Time in between the Signal Issues|Implemented|
 |HLR_4|More Signal Commands to be Integrated|Future|
 
-## Low Level Requirements:
+## Low Level Requirements
 |ID|*Mapped To*|Description|Status|
 |--|-----------|-----------|------|
 |LLR_1|HLR_1|'/a.out' for start process in background, '&' for multiple instance, the more you add the more ./a.out's are created. Also Job Control prints Job Number and Process ID.|Implemented|
