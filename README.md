@@ -5,6 +5,12 @@ A brief illustration performed on the Linux Ubuntu Terminal showing how the proc
 # End-Goal
 The sole intention is to introduce & explain Signals as part of **Inter Process Communication i.e. _IPC_**.
 
+# Badges
+
+Build | Code Quality | Unity |
+------|--------------|-------|
+|| [![cppcheck-action-test](https://github.com/avnssskrishna/Linux_Signals_Illustration/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/avnssskrishna/Linux_Signals_Illustration/actions/workflows/cppcheck.yml)||
+
 # Author/Programmer Information
 | PS No. | Name | GitHub Username |
 ---------|-------------|----------------|
