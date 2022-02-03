@@ -107,4 +107,4 @@ printf("\n Process made defaultly to be Terminated \n");
 }
 ```
 ![Initial Execution](https://github.com/avnssskrishna/Linux_Signals_Illustration/blob/72277bfbce3754a5ac94d7045391a430832f1987/4_Media/Initial%20Execution.png)
-![Process Execution](https://github.com/avnssskrishna/Linux_Signals_Illustration/blob/72277bfbce3754a5ac94d7045391a430832f1987/4_Media/Initial%20Execution.png)
+![Process Execution](https://github.com/avnssskrishna/Linux_Signals_Illustration/blob/c76678cee07f52126525bd52582da7a397140b04/4_Media/Process%20Execution.png)
