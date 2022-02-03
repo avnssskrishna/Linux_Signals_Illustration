@@ -20,4 +20,4 @@ The sole intention is to introduce & explain Signals as part of **Inter Process 
 | 5_TestPlanAndOutput | And now the 'Real' Process of the Project|
 | 6_Report | Aah Some Formality... |
 
-*Thank you for coming here.*
+*Thank you for coming here*
