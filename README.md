@@ -7,9 +7,9 @@ The sole intention is to introduce & explain Signals as part of **Inter Process 
 
 # Badges
 
-Build | Code Quality | Unity |
+Build | Code Quality | Git Inspector |
 ------|--------------|-------|
-|| [![cppcheck-action-test](https://github.com/avnssskrishna/Linux_Signals_Illustration/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/avnssskrishna/Linux_Signals_Illustration/actions/workflows/cppcheck.yml)||
+|[![Linux C/C++ CI](https://github.com/avnssskrishna/Linux_Signals_Illustration/actions/workflows/linux_c-cpp.yml/badge.svg)](https://github.com/avnssskrishna/Linux_Signals_Illustration/actions/workflows/linux_c-cpp.yml)| [![cppcheck-action-test](https://github.com/avnssskrishna/Linux_Signals_Illustration/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/avnssskrishna/Linux_Signals_Illustration/actions/workflows/cppcheck.yml)|[![Contribution Check - Git Inspector](https://github.com/avnssskrishna/Linux_Signals_Illustration/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/avnssskrishna/Linux_Signals_Illustration/actions/workflows/gitinspector.yml)|
 
 # Author/Programmer Information
 | PS No. | Name | GitHub Username |
