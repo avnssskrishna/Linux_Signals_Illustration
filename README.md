@@ -1,3 +1,4 @@
+*Welcome to the World of Linux*
 # Linux Signals Illustration
 A brief illustration performed on the Linux Ubuntu Terminal showing how the process of signals goes and how actions like suspend &amp; resume work.
 
