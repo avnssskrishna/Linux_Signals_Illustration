@@ -64,6 +64,10 @@ Redundancy
 |LLR_4|HLR_3|pause(); used wherever required, appropriately|Implemented|
 |LLR_5|HLR_4|After the current signal commands, play around with the rest 31-odd standards|Future|
 
+
+# Design
+![Signal Processes](https://github.com/avnssskrishna/Linux_Signals_Illustration/blob/72277bfbce3754a5ac94d7045391a430832f1987/2_Design/Signal%20Processes.png)
+
 ## Base Code
 
 ![Main File Link (Click!)](https://github.com/avnssskrishna/Linux_Signals_Illustration/blob/main/3_Implementation/src/signals.c)
@@ -102,3 +106,5 @@ if (sigid == SIGINT)
 printf("\n Process made defaultly to be Terminated \n");
 }
 ```
+![Initial Execution](https://github.com/avnssskrishna/Linux_Signals_Illustration/blob/72277bfbce3754a5ac94d7045391a430832f1987/4_Media/Initial%20Execution.png)
+![Process Execution](https://github.com/avnssskrishna/Linux_Signals_Illustration/blob/72277bfbce3754a5ac94d7045391a430832f1987/4_Media/Initial%20Execution.png)
