@@ -1,4 +1,4 @@
-name: C/C++ CI - Build Status
+name: Linux C/C++ CI
 
 on:
   push:
@@ -13,5 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make
-      run: make -C 3_Implementation/ all
+    - name: build
+      run: gcc hello.c -o hello.exe
+    - name: Run
+      run: ./hello.exe
