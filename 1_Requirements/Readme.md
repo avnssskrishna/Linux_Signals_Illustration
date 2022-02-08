@@ -9,7 +9,7 @@ To utilize the power of signals on the path of process glory.
 ## 4Ws and 1H
 
 ### What
-A pure program consisting of pure signal commands.
+A pure program consisting of raw signal commands.
 ### When
 Right there, right now when the processes are being run. Same instance, multiple operations. Literally.
 ### Where
