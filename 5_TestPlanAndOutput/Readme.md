@@ -8,7 +8,7 @@
 ## Low Level Test Plan
 |Test ID|*Mapped To*|Description|Status|Input|Output|Type of Test|
 |-------|-----------|-----------|------|-----|------|------------|
-|LLR_1|HLR_1|'/a.out' for start process in background, '&' for multiple instance, the more you add the more ./a.out's are created. Also Job Control prints Job Number and Process ID.|Implemented|'./a.out &'|Process sno id created|Scenario Based|
+|LLR_1|HLR_1|'/a.out' for start process in background, '&' for multiple instance, the more you add the more ./a.out's are created. Also Job Control prints Job Number and Process ID.|Implemented|'./a.out &'|Process SNO & ID created|Scenario Based|
 |LLR_2|HLR_2|'kill -USR1 id' used to suspend the process|Implemented|'kill -USR1 newid'|Process in queue to be Suspended, id|Requirement Based|
 |LLR_3|HLR_2|'kill -USR2 id' used to resume the process|Implemented|'kill -USR2 newid'|Process lined up to be Resumed, Exiting from Suspended State, id|Requirement Based|
 |LLR_4|HLR_3|'pause();' used wherever required, appropriately|Implemented|Used 3 times|Proper Wait Times|Boundary Based|
